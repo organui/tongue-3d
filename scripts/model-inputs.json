@@ -1,0 +1,234 @@
+{
+  "mirrorCommit": "fd527e6f4daf732fd814314d9257df5877b844bc",
+  "mapping": {
+    "file": "docs/model-source/FMA2Obj-4.3.tsv",
+    "sha256": "c3d16c891016da13447de2fc3241d05d92e8f9dc460e363233c03f420b935d4f"
+  },
+  "objects": [
+    {
+      "id": "FJ2761",
+      "file": "FJ2761.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2761_BP23790_FMA54640_Tongue.obj",
+      "sha256": "707d87fdd5b29147724d013b18f98e7eeab2d71bceec9490cf14784c63117e34",
+      "bytes": 31105,
+      "mirrorPath": "meshes/FJ2761_BP23790_FMA54640_Tongue.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2761_BP23790_FMA54640_Tongue.obj"
+    },
+    {
+      "id": "FJ2738",
+      "file": "FJ2738.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2738_BP20227_FMA46702_Left%20genioglossus.obj",
+      "sha256": "1d6c44f9f63a77df3cdb6198c12fbd8ce80f10bf50804d1cea3777d53feca166",
+      "bytes": 560222,
+      "mirrorPath": "meshes/FJ2738_BP20227_FMA46702_Left genioglossus.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2738_BP20227_FMA46702_Left%20genioglossus.obj"
+    },
+    {
+      "id": "FJ2750",
+      "file": "FJ2750.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2750_BP23936_FMA46698_Right%20genioglossus.obj",
+      "sha256": "cb08ef1ee41113d34c58fcad12bcb7921e05370a89bab3403851911073ca1b8b",
+      "bytes": 515017,
+      "mirrorPath": "meshes/FJ2750_BP23936_FMA46698_Right genioglossus.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2750_BP23936_FMA46698_Right%20genioglossus.obj"
+    },
+    {
+      "id": "FJ2739",
+      "file": "FJ2739.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2739_BP20255_FMA46704_Left%20hyoglossus.obj",
+      "sha256": "e2331239595600341b15ae0866768b4fb1221c348f68c792a1c0a0224941940b",
+      "bytes": 191323,
+      "mirrorPath": "meshes/FJ2739_BP20255_FMA46704_Left hyoglossus.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2739_BP20255_FMA46704_Left%20hyoglossus.obj"
+    },
+    {
+      "id": "FJ2751",
+      "file": "FJ2751.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2751_BP20180_FMA46703_Right%20hyoglossus.obj",
+      "sha256": "1cb32c538ec83454d2daf38f8714624726830e68407965e73a4f32d554a44a30",
+      "bytes": 189167,
+      "mirrorPath": "meshes/FJ2751_BP20180_FMA46703_Right hyoglossus.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2751_BP20180_FMA46703_Right%20hyoglossus.obj"
+    },
+    {
+      "id": "FJ1559",
+      "file": "FJ1559.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1559_BP23354_FMA46327_Left%20geniohyoid.obj",
+      "sha256": "af742441780e8fe85d76233cf58017c9a78f3a74b895acff8d967c8fc2281823",
+      "bytes": 45701,
+      "mirrorPath": "meshes/FJ1559_BP23354_FMA46327_Left geniohyoid.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1559_BP23354_FMA46327_Left%20geniohyoid.obj"
+    },
+    {
+      "id": "FJ1580",
+      "file": "FJ1580.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1580_BP23425_FMA46326_Right%20geniohyoid.obj",
+      "sha256": "822ebfff994f1e3db514a5a43b4248405bc56764ef78bb10be47ccda551ca2b2",
+      "bytes": 45137,
+      "mirrorPath": "meshes/FJ1580_BP23425_FMA46326_Right geniohyoid.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1580_BP23425_FMA46326_Right%20geniohyoid.obj"
+    },
+    {
+      "id": "FJ1562",
+      "file": "FJ1562.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1562_BP23505_FMA46322_Left%20mylohyoid.obj",
+      "sha256": "c6e0e7d8cef3bb38f3f44c75a6349de365f2307016c5fc2e5cf8e15b9ba3faad",
+      "bytes": 132934,
+      "mirrorPath": "meshes/FJ1562_BP23505_FMA46322_Left mylohyoid.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1562_BP23505_FMA46322_Left%20mylohyoid.obj"
+    },
+    {
+      "id": "FJ1583",
+      "file": "FJ1583.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1583_BP23666_FMA46321_Right%20mylohyoid.obj",
+      "sha256": "0d4e2c1f08401a9a92ca85700e2a9146d18c1860ab95c125b44478d7febb57bd",
+      "bytes": 134736,
+      "mirrorPath": "meshes/FJ1583_BP23666_FMA46321_Right mylohyoid.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1583_BP23666_FMA46321_Right%20mylohyoid.obj"
+    },
+    {
+      "id": "FJ2772",
+      "file": "FJ2772.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2772_BP22977_FMA52749_Hyoid%20bone.obj",
+      "sha256": "0e29dd64fd4bca2c4c6e2079bf6df138f033f11faf2d3702ab5788b7e3357d49",
+      "bytes": 75198,
+      "mirrorPath": "meshes/FJ2772_BP22977_FMA52749_Hyoid bone.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2772_BP22977_FMA52749_Hyoid%20bone.obj"
+    },
+    {
+      "id": "FJ2770",
+      "file": "FJ2770.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2770_BP21503_FMA55130_Epiglottis.obj",
+      "sha256": "71ee991574e3dc23ee1dd8122b0c14f2961b4df3d3ce9f13b706ff2f91c3491a",
+      "bytes": 294458,
+      "mirrorPath": "meshes/FJ2770_BP21503_FMA55130_Epiglottis.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2770_BP21503_FMA55130_Epiglottis.obj"
+    },
+    {
+      "id": "FJ2766",
+      "file": "FJ2766.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2766_BP23762_FMA59803_Left%20submandibular%20gland.obj",
+      "sha256": "710261df52af452a8cadbec961c8e9bdebdfb97b5fafa0d709f82a91a1eb59b9",
+      "bytes": 13039,
+      "mirrorPath": "meshes/FJ2766_BP23762_FMA59803_Left submandibular gland.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2766_BP23762_FMA59803_Left%20submandibular%20gland.obj"
+    },
+    {
+      "id": "FJ2768",
+      "file": "FJ2768.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2768_BP23704_FMA59802_Right%20submandibular%20gland.obj",
+      "sha256": "777c0eea8b0ce55d89a945a2d59835041b58bed841bb10d537e7536102b99647",
+      "bytes": 13125,
+      "mirrorPath": "meshes/FJ2768_BP23704_FMA59802_Right submandibular gland.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2768_BP23704_FMA59802_Right%20submandibular%20gland.obj"
+    },
+    {
+      "id": "FJ2765",
+      "file": "FJ2765.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2765_BP23722_FMA59805_Left%20sublingual%20gland.obj",
+      "sha256": "970c0dfe0bde1e9206b9c5d60a4f2d46e121e607351e45f44f2fd3a31dd4a857",
+      "bytes": 14328,
+      "mirrorPath": "meshes/FJ2765_BP23722_FMA59805_Left sublingual gland.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2765_BP23722_FMA59805_Left%20sublingual%20gland.obj"
+    },
+    {
+      "id": "FJ2767",
+      "file": "FJ2767.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2767_BP23401_FMA59804_Right%20sublingual%20gland.obj",
+      "sha256": "1fd9e10f40654745b106f7208b168be5c4d854f8ab3a09ec2d54d1a647daaab2",
+      "bytes": 14871,
+      "mirrorPath": "meshes/FJ2767_BP23401_FMA59804_Right sublingual gland.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2767_BP23401_FMA59804_Right%20sublingual%20gland.obj"
+    },
+    {
+      "id": "FJ3941",
+      "file": "FJ3941.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3941_BP29459_FMA80483_Trunk%20of%20left%20hypoglossal%20nerve.obj",
+      "sha256": "bdef6f96d99391903b39322a760318ecaaa0aa534efe21796004bc81a7fa5d73",
+      "bytes": 120080,
+      "mirrorPath": "meshes/FJ3941_BP29459_FMA80483_Trunk of left hypoglossal nerve.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3941_BP29459_FMA80483_Trunk%20of%20left%20hypoglossal%20nerve.obj"
+    },
+    {
+      "id": "FJ4027",
+      "file": "FJ4027.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ4027_BP29430_FMA80482_Trunk%20of%20right%20hypoglossal%20nerve.obj",
+      "sha256": "680000147b0ac768185da3310b3aaf910889d8428fd5891a8db3e1d2f32d320f",
+      "bytes": 318286,
+      "mirrorPath": "meshes/FJ4027_BP29430_FMA80482_Trunk of right hypoglossal nerve.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ4027_BP29430_FMA80482_Trunk%20of%20right%20hypoglossal%20nerve.obj"
+    },
+    {
+      "id": "FJ3949",
+      "file": "FJ3949.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3949_BP29199_FMA80512_Trunk%20of%20left%20lingual%20nerve.obj",
+      "sha256": "fc111c90759c98a8884557b3dc6fc1dbf8dec735ff6a1ab96b163b0eafc392bd",
+      "bytes": 147877,
+      "mirrorPath": "meshes/FJ3949_BP29199_FMA80512_Trunk of left lingual nerve.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3949_BP29199_FMA80512_Trunk%20of%20left%20lingual%20nerve.obj"
+    },
+    {
+      "id": "FJ3984",
+      "file": "FJ3984.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3984_BP29156_FMA80511_Trunk%20of%20right%20lingual%20nerve.obj",
+      "sha256": "ee5a91f1c971091bfa3398f7d102669308fe82380e22563a81369ecf00c2d8a1",
+      "bytes": 147211,
+      "mirrorPath": "meshes/FJ3984_BP29156_FMA80511_Trunk of right lingual nerve.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3984_BP29156_FMA80511_Trunk%20of%20right%20lingual%20nerve.obj"
+    },
+    {
+      "id": "FJ5117",
+      "file": "FJ5117.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ5117_BP29142_FMA66447_Trunk%20of%20right%20lingual%20artery.obj",
+      "sha256": "ead8392c4484a334ebc42a21ac00cfff4d4e21b08933c759d941fdb75b73794f",
+      "bytes": 38985,
+      "mirrorPath": "meshes/FJ5117_BP29142_FMA66447_Trunk of right lingual artery.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ5117_BP29142_FMA66447_Trunk%20of%20right%20lingual%20artery.obj"
+    },
+    {
+      "id": "FJ5074",
+      "file": "FJ5074.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ5074_BP29557_FMA49535_Third%20part%20of%20right%20lingual%20artery.obj",
+      "sha256": "c8c939b130aab986695237f22a7a9d1b696307142d2fea7e6f77f7880b9c797f",
+      "bytes": 24323,
+      "mirrorPath": "meshes/FJ5074_BP29557_FMA49535_Third part of right lingual artery.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ5074_BP29557_FMA49535_Third%20part%20of%20right%20lingual%20artery.obj"
+    },
+    {
+      "id": "FJ5190",
+      "file": "FJ5190.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ5190_BP29680_FMA49544_Right%20sublingual%20artery.obj",
+      "sha256": "e165900a9e1dddb183bc309fabfff1de48bd87bf5b8ef9451be237520ad7475e",
+      "bytes": 29582,
+      "mirrorPath": "meshes/FJ5190_BP29680_FMA49544_Right sublingual artery.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ5190_BP29680_FMA49544_Right%20sublingual%20artery.obj"
+    },
+    {
+      "id": "FJ4996",
+      "file": "FJ4996.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ4996_BP28866_FMA52565_Right%20lingual%20vein.obj",
+      "sha256": "cdbdf6299b45700c77a46a6eb3d628f64c591d03dec2fbdebffb96575b8118c3",
+      "bytes": 96611,
+      "mirrorPath": "meshes/FJ4996_BP28866_FMA52565_Right lingual vein.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ4996_BP28866_FMA52565_Right%20lingual%20vein.obj"
+    },
+    {
+      "id": "FJ5075",
+      "file": "FJ5075.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ5075_BP28756_FMA50831_Right%20deep%20lingual%20vein.obj",
+      "sha256": "e52799fd85768cf3c5808cd21ba55317b174a2f3c0d770b77c4800acaca8ece9",
+      "bytes": 33516,
+      "mirrorPath": "meshes/FJ5075_BP28756_FMA50831_Right deep lingual vein.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ5075_BP28756_FMA50831_Right%20deep%20lingual%20vein.obj"
+    },
+    {
+      "id": "FJ5191",
+      "file": "FJ5191.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ5191_BP28822_FMA50837_Right%20sublingual%20vein.obj",
+      "sha256": "dde9c6e3fbdf9734632197f89ef45e6f1e04ce2102f09c7f7e62b25ddcf97085",
+      "bytes": 51707,
+      "mirrorPath": "meshes/FJ5191_BP28822_FMA50837_Right sublingual vein.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ5191_BP28822_FMA50837_Right%20sublingual%20vein.obj"
+    }
+  ]
+}

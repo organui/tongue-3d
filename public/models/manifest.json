@@ -1,0 +1,413 @@
+{
+  "dataset": "BodyParts3D / Anatomography",
+  "version": "4.3",
+  "variant": "Object set 4.3, ontology tree FMA3.0; official IS-A concept-to-element mapping",
+  "retrieved": "2026-10-16",
+  "license": "CC-BY-SA-2.1-JP",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en",
+  "sourceLicenseStatement": "https://lifesciencedb.jp/bp3d/info/index.html#License",
+  "credit": "BodyParts3D / Anatomography, © The Database Center for Life Science. CC BY-SA 2.1 Japan. Adapted by OrganUI.",
+  "mirror": {
+    "repository": "https://github.com/olivercase/body_parts_3d_api",
+    "commit": "fd527e6f4daf732fd814314d9257df5877b844bc"
+  },
+  "mapping": {
+    "file": "docs/model-source/FMA2Obj-4.3.tsv",
+    "sha256": "c3d16c891016da13447de2fc3241d05d92e8f9dc460e363233c03f420b935d4f"
+  },
+  "transform": {
+    "sourceBoundsMm": {
+      "min": [
+        -38.8709,
+        -171.682,
+        1408.73
+      ],
+      "max": [
+        37.5641,
+        -69.7496,
+        1500.11
+      ]
+    },
+    "centerMm": [
+      -0.6533999999999978,
+      -120.7158,
+      1454.42
+    ],
+    "scale": 0.034,
+    "axes": "[x, z, -y]"
+  },
+  "runtime": {
+    "file": "tongue.glb",
+    "bytes": 1295752,
+    "sha256": "1e5770791e8111cf1a3c4cfe31b75d076de435a10376f64473026e98ccb5ce40"
+  },
+  "structures": [
+    {
+      "id": "tongue",
+      "fma": "FMA54640",
+      "concepts": [
+        "FMA54640"
+      ],
+      "sourceName": "tongue",
+      "elements": [
+        {
+          "element": "FJ2761",
+          "concept": "FMA54640",
+          "sourceName": "Tongue",
+          "sha256": "707d87fdd5b29147724d013b18f98e7eeab2d71bceec9490cf14784c63117e34",
+          "bytes": 31105,
+          "vertices": 276,
+          "triangles": 524
+        }
+      ]
+    },
+    {
+      "id": "genioglossus",
+      "fma": "FMA46702",
+      "concepts": [
+        "FMA46702",
+        "FMA46698"
+      ],
+      "sourceName": "left and right genioglossus",
+      "elements": [
+        {
+          "element": "FJ2738",
+          "concept": "FMA46702",
+          "sourceName": "Left genioglossus",
+          "sha256": "1d6c44f9f63a77df3cdb6198c12fbd8ce80f10bf50804d1cea3777d53feca166",
+          "bytes": 560222,
+          "vertices": 4685,
+          "triangles": 8214
+        },
+        {
+          "element": "FJ2750",
+          "concept": "FMA46698",
+          "sourceName": "Right genioglossus",
+          "sha256": "cb08ef1ee41113d34c58fcad12bcb7921e05370a89bab3403851911073ca1b8b",
+          "bytes": 515017,
+          "vertices": 4261,
+          "triangles": 7594
+        }
+      ]
+    },
+    {
+      "id": "hyoglossus",
+      "fma": "FMA46704",
+      "concepts": [
+        "FMA46704",
+        "FMA46703"
+      ],
+      "sourceName": "left and right hyoglossus",
+      "elements": [
+        {
+          "element": "FJ2739",
+          "concept": "FMA46704",
+          "sourceName": "Left hyoglossus",
+          "sha256": "e2331239595600341b15ae0866768b4fb1221c348f68c792a1c0a0224941940b",
+          "bytes": 191323,
+          "vertices": 1709,
+          "triangles": 2888
+        },
+        {
+          "element": "FJ2751",
+          "concept": "FMA46703",
+          "sourceName": "Right hyoglossus",
+          "sha256": "1cb32c538ec83454d2daf38f8714624726830e68407965e73a4f32d554a44a30",
+          "bytes": 189167,
+          "vertices": 1653,
+          "triangles": 2874
+        }
+      ]
+    },
+    {
+      "id": "geniohyoid",
+      "fma": "FMA46327",
+      "concepts": [
+        "FMA46327",
+        "FMA46326"
+      ],
+      "sourceName": "left and right geniohyoid",
+      "elements": [
+        {
+          "element": "FJ1559",
+          "concept": "FMA46327",
+          "sourceName": "Left geniohyoid",
+          "sha256": "af742441780e8fe85d76233cf58017c9a78f3a74b895acff8d967c8fc2281823",
+          "bytes": 45701,
+          "vertices": 419,
+          "triangles": 732
+        },
+        {
+          "element": "FJ1580",
+          "concept": "FMA46326",
+          "sourceName": "Right geniohyoid",
+          "sha256": "822ebfff994f1e3db514a5a43b4248405bc56764ef78bb10be47ccda551ca2b2",
+          "bytes": 45137,
+          "vertices": 408,
+          "triangles": 728
+        }
+      ]
+    },
+    {
+      "id": "mylohyoid",
+      "fma": "FMA46322",
+      "concepts": [
+        "FMA46322",
+        "FMA46321"
+      ],
+      "sourceName": "left and right mylohyoid",
+      "elements": [
+        {
+          "element": "FJ1562",
+          "concept": "FMA46322",
+          "sourceName": "Left mylohyoid",
+          "sha256": "c6e0e7d8cef3bb38f3f44c75a6349de365f2307016c5fc2e5cf8e15b9ba3faad",
+          "bytes": 132934,
+          "vertices": 1257,
+          "triangles": 1938
+        },
+        {
+          "element": "FJ1583",
+          "concept": "FMA46321",
+          "sourceName": "Right mylohyoid",
+          "sha256": "0d4e2c1f08401a9a92ca85700e2a9146d18c1860ab95c125b44478d7febb57bd",
+          "bytes": 134736,
+          "vertices": 1267,
+          "triangles": 1956
+        }
+      ]
+    },
+    {
+      "id": "hyoid-bone",
+      "fma": "FMA52749",
+      "concepts": [
+        "FMA52749"
+      ],
+      "sourceName": "hyoid bone",
+      "elements": [
+        {
+          "element": "FJ2772",
+          "concept": "FMA52749",
+          "sourceName": "Hyoid bone",
+          "sha256": "0e29dd64fd4bca2c4c6e2079bf6df138f033f11faf2d3702ab5788b7e3357d49",
+          "bytes": 75198,
+          "vertices": 687,
+          "triangles": 1196
+        }
+      ]
+    },
+    {
+      "id": "epiglottis",
+      "fma": "FMA55130",
+      "concepts": [
+        "FMA55130"
+      ],
+      "sourceName": "epiglottis",
+      "elements": [
+        {
+          "element": "FJ2770",
+          "concept": "FMA55130",
+          "sourceName": "Epiglottis",
+          "sha256": "71ee991574e3dc23ee1dd8122b0c14f2961b4df3d3ce9f13b706ff2f91c3491a",
+          "bytes": 294458,
+          "vertices": 2992,
+          "triangles": 3602
+        }
+      ]
+    },
+    {
+      "id": "submandibular-glands",
+      "fma": "FMA59803",
+      "concepts": [
+        "FMA59803",
+        "FMA59802"
+      ],
+      "sourceName": "left and right submandibular gland",
+      "elements": [
+        {
+          "element": "FJ2766",
+          "concept": "FMA59803",
+          "sourceName": "Left submandibular gland",
+          "sha256": "710261df52af452a8cadbec961c8e9bdebdfb97b5fafa0d709f82a91a1eb59b9",
+          "bytes": 13039,
+          "vertices": 123,
+          "triangles": 228
+        },
+        {
+          "element": "FJ2768",
+          "concept": "FMA59802",
+          "sourceName": "Right submandibular gland",
+          "sha256": "777c0eea8b0ce55d89a945a2d59835041b58bed841bb10d537e7536102b99647",
+          "bytes": 13125,
+          "vertices": 122,
+          "triangles": 228
+        }
+      ]
+    },
+    {
+      "id": "sublingual-glands",
+      "fma": "FMA59805",
+      "concepts": [
+        "FMA59805",
+        "FMA59804"
+      ],
+      "sourceName": "left and right sublingual gland",
+      "elements": [
+        {
+          "element": "FJ2765",
+          "concept": "FMA59805",
+          "sourceName": "Left sublingual gland",
+          "sha256": "970c0dfe0bde1e9206b9c5d60a4f2d46e121e607351e45f44f2fd3a31dd4a857",
+          "bytes": 14328,
+          "vertices": 143,
+          "triangles": 230
+        },
+        {
+          "element": "FJ2767",
+          "concept": "FMA59804",
+          "sourceName": "Right sublingual gland",
+          "sha256": "1fd9e10f40654745b106f7208b168be5c4d854f8ab3a09ec2d54d1a647daaab2",
+          "bytes": 14871,
+          "vertices": 143,
+          "triangles": 244
+        }
+      ]
+    },
+    {
+      "id": "hypoglossal-nerves",
+      "fma": "FMA80483",
+      "concepts": [
+        "FMA80483",
+        "FMA80482"
+      ],
+      "sourceName": "trunks of left and right hypoglossal nerve",
+      "elements": [
+        {
+          "element": "FJ3941",
+          "concept": "FMA80483",
+          "sourceName": "Trunk of left hypoglossal nerve",
+          "sha256": "bdef6f96d99391903b39322a760318ecaaa0aa534efe21796004bc81a7fa5d73",
+          "bytes": 120080,
+          "vertices": 1195,
+          "triangles": 1682
+        },
+        {
+          "element": "FJ4027",
+          "concept": "FMA80482",
+          "sourceName": "Trunk of right hypoglossal nerve",
+          "sha256": "680000147b0ac768185da3310b3aaf910889d8428fd5891a8db3e1d2f32d320f",
+          "bytes": 318286,
+          "vertices": 2629,
+          "triangles": 4878
+        }
+      ]
+    },
+    {
+      "id": "lingual-nerves",
+      "fma": "FMA80512",
+      "concepts": [
+        "FMA80512",
+        "FMA80511"
+      ],
+      "sourceName": "trunks of left and right lingual nerve",
+      "elements": [
+        {
+          "element": "FJ3949",
+          "concept": "FMA80512",
+          "sourceName": "Trunk of left lingual nerve",
+          "sha256": "fc111c90759c98a8884557b3dc6fc1dbf8dec735ff6a1ab96b163b0eafc392bd",
+          "bytes": 147877,
+          "vertices": 1262,
+          "triangles": 2426
+        },
+        {
+          "element": "FJ3984",
+          "concept": "FMA80511",
+          "sourceName": "Trunk of right lingual nerve",
+          "sha256": "ee5a91f1c971091bfa3398f7d102669308fe82380e22563a81369ecf00c2d8a1",
+          "bytes": 147211,
+          "vertices": 1259,
+          "triangles": 2378
+        }
+      ]
+    },
+    {
+      "id": "lingual-artery",
+      "fma": "FMA66447",
+      "concepts": [
+        "FMA66447",
+        "FMA49535",
+        "FMA49544"
+      ],
+      "sourceName": "trunk and third part of right lingual artery, right sublingual artery",
+      "elements": [
+        {
+          "element": "FJ5117",
+          "concept": "FMA66447",
+          "sourceName": "Trunk of right lingual artery",
+          "sha256": "ead8392c4484a334ebc42a21ac00cfff4d4e21b08933c759d941fdb75b73794f",
+          "bytes": 38985,
+          "vertices": 345,
+          "triangles": 654
+        },
+        {
+          "element": "FJ5074",
+          "concept": "FMA49535",
+          "sourceName": "Third part of right lingual artery",
+          "sha256": "c8c939b130aab986695237f22a7a9d1b696307142d2fea7e6f77f7880b9c797f",
+          "bytes": 24323,
+          "vertices": 276,
+          "triangles": 308
+        },
+        {
+          "element": "FJ5190",
+          "concept": "FMA49544",
+          "sourceName": "Right sublingual artery",
+          "sha256": "e165900a9e1dddb183bc309fabfff1de48bd87bf5b8ef9451be237520ad7475e",
+          "bytes": 29582,
+          "vertices": 366,
+          "triangles": 310
+        }
+      ]
+    },
+    {
+      "id": "lingual-veins",
+      "fma": "FMA52565",
+      "concepts": [
+        "FMA52565",
+        "FMA50831",
+        "FMA50837"
+      ],
+      "sourceName": "right lingual, deep lingual and sublingual veins",
+      "elements": [
+        {
+          "element": "FJ4996",
+          "concept": "FMA52565",
+          "sourceName": "Right lingual vein",
+          "sha256": "cdbdf6299b45700c77a46a6eb3d628f64c591d03dec2fbdebffb96575b8118c3",
+          "bytes": 96611,
+          "vertices": 821,
+          "triangles": 1632
+        },
+        {
+          "element": "FJ5075",
+          "concept": "FMA50831",
+          "sourceName": "Right deep lingual vein",
+          "sha256": "e52799fd85768cf3c5808cd21ba55317b174a2f3c0d770b77c4800acaca8ece9",
+          "bytes": 33516,
+          "vertices": 333,
+          "triangles": 488
+        },
+        {
+          "element": "FJ5191",
+          "concept": "FMA50837",
+          "sourceName": "Right sublingual vein",
+          "sha256": "dde9c6e3fbdf9734632197f89ef45e6f1e04ce2102f09c7f7e62b25ddcf97085",
+          "bytes": 51707,
+          "vertices": 544,
+          "triangles": 688
+        }
+      ]
+    }
+  ]
+}
